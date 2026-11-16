@@ -1,2 +1,2 @@
 # hello-world
-Ce référentiel est destiné à pratiquer le GitHub flux 
+Bonjour, je m'appelle Ramy et je suis ingénieur en radioprotection et criticité.
